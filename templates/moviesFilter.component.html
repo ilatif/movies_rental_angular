@@ -1,0 +1,8 @@
+<div style='text-align: center;'>
+	Select Movie Type: &nbsp;
+	<select (change)="handleChange($event)">
+		<option *ngFor='let filter of filters' [value]='filter'>
+			{{filter}}
+		</option>
+	</select>
+</div>

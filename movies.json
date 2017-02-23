@@ -1,0 +1,62 @@
+[
+  {
+    "number": 1,
+    "name": "The Shawshank Redemption",
+    "type": "drama",
+    "image": "the_shawshank_redemption.jpg"
+  },
+  {
+    "number": 2,
+    "name": "The Dark Knight",
+    "type": "action",
+    "image": "the_dark_knight.jpg"
+  },
+  {
+    "number": 3,
+    "name": "Fight Club",
+    "type": "action",
+    "image": "fight_club.jpg"
+  },
+  {
+    "number": 4,
+    "name": "The Martix",
+    "type": "sci-fi",
+    "image": "the_matrix.jpg"
+  },
+  {
+    "number": 5,
+    "name": "Lion King",
+    "type": "animation",
+    "image": "lion_king.jpg"
+  },
+  {
+    "number": 6,
+    "name": "Wall-E",
+    "type": "animation",
+    "image": "wall_e.jpg"
+  },
+  {
+    "number": 7,
+    "name": "Toy Story",
+    "type": "animation",
+    "image": "toy_story.jpg"
+  },
+  {
+    "number": 8,
+    "name": "A Separation",
+    "type": "drama",
+    "image": "a_separation.jpg"
+  },
+  {
+    "number": 9,
+    "name": "Warrior",
+    "type": "action",
+    "image": "warrior.jpg"
+  },
+  {
+    "number": 10,
+    "name": "The Avengers",
+    "type": "action",
+    "image": "the_avengers.jpg"
+  }
+]

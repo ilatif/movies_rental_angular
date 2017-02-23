@@ -1,0 +1,8 @@
+<td>{{movie.number}}</td>
+<td>{{movie.name}}</td>
+<td>{{movie.type | capitalize_word}}</td>
+<td><img src="images/{{movie.image}}" /></td>
+<td>
+	<button *ngIf='!movie.rented' [ngClass]="['btn', 'btn-success']" (click)="movie.rented = true">Rent it!</button>
+	<button *ngIf='movie.rented' [ngClass]="['btn', 'btn-warning']" (click)="movie.rented = false">Receive it!</button>
+</td>
